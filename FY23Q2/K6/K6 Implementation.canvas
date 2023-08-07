@@ -19,7 +19,7 @@
 		{"type":"file","file":"FY23Q2/K6/k6 Assets/rc-* with k6 on GHAs.png","id":"6bf354c751638592","x":1600,"y":1950,"width":400,"height":202},
 		{"type":"file","file":"FY23Q2/K6/k6 Assets/K6 job.png","id":"ad0352bb48144825","x":1600,"y":2360,"width":399,"height":193},
 		{"type":"file","file":"FY23Q2/K6/k6 Assets/K6 report.png","id":"8fcc9add5a5cceaf","x":1600,"y":2760,"width":400,"height":213},
-		{"type":"file","file":"FY23Q2/K6/k6 Assets/K6_load_test_configuration.png","id":"8a90582f06907bf0","x":-680,"y":1581,"width":400,"height":198}
+		{"type":"file","file":"FY23Q2/K6/k6 Assets/K6 loadtest configuration.png","id":"8a90582f06907bf0","x":-680,"y":1581,"width":400,"height":198}
 	],
 	"edges":[
 		{"id":"f0bac42469492bf1","fromNode":"6573ba9b0e97e310","fromSide":"bottom","toNode":"5630c28150597840","toSide":"top"},
