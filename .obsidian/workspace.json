@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "e50b9784a9543923",
+    "type": "split",
+    "children": [
+      {
+        "id": "29440f207b809e77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22b4a31dff7d523c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "FY23Q2 K6 Implementation.canvas",
+                "viewState": {
+                  "x": 1411.2089680025772,
+                  "y": 2243.200452843085,
+                  "zoom": -3.1737951292967845
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9068ba937c295c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0972565b01060118",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "896f40e554bc726e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f199c645f381ad1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea8b351fcc58c1c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "431f952994147915",
+    "type": "split",
+    "children": [
+      {
+        "id": "69bc490f18cc51c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a463fb6d4b454a44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FY23Q2 K6 Implementation.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "652e221c88180e13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FY23Q2 K6 Implementation.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d8039c822dcf367",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2a416531923f622",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FY23Q2 K6 Implementation.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "22b4a31dff7d523c",
+  "lastOpenFiles": [
+    "K6 report.png",
+    "K6 job.png",
+    "rc-* with k6 on GHAs.png",
+    "Prefix branch.png",
+    "K6 dashboard.png",
+    "K6_load_test_configuration.png",
+    "FY23Q2 K6 Implementation.canvas",
+    "step-4.png",
+    "step-3.png",
+    "step-2.png",
+    "step-1.png"
+  ]
+}
